@@ -14,7 +14,6 @@ const sumAll = function(num1, num2) {
             sum += i;
         }
     }
-    
     return sum;
 };
 
